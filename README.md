@@ -15,7 +15,7 @@ You can change app beviour using the `config.properties` file
 
 - `MIN_SPEED, MAXSPEED`- these values represent the speed of typing, each time the app typing character it will pick random number between MINSPEED-MAXSPEED and this value will be the delay time of the typed character (milliseconds). higher values means slower typing.
 - `ERROR_RATE`- The app can mimic human typing mistakes, this value can be 0-100 and it will represent the percentage amount of mistakes that the app will do in the game.
-- `GOOGLE_API_TOKEN`- In order to solve the challenge in the game you must provide google cloud api key. See [Solving Challenge](##Solving-Challenge)
+- `GOOGLE_API_TOKEN`- In order to solve the challenge in the game you must provide google cloud api key. See [Solving Challenge](#Solving-Challenge)
 
 ## Solving Challenge
 
